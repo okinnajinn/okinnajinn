@@ -42,14 +42,11 @@
 
 <br>
 
-<h1 align="center">GitHub Stats</h1>
+<h1 align="center">📊 GitHub Stats</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=okinnajinn&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okinnajinn&layout=compact&theme=radical&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=okinnajinn&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okinnajinn&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
