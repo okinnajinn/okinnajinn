@@ -1,4 +1,4 @@
-theme=radical&bg_color=0d1117
+
 <h2 align="center">Work.</h2>
 
 <p align="center">
@@ -43,7 +43,7 @@ theme=radical&bg_color=0d1117
 
 <br>
 
-<h1 align="center">📊 GitHub Stats</h1>
+<h1 align="center">Stats</h1>
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=okinnajinn&show_icons=true&theme=radical&hide_border=true" />
