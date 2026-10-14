@@ -1,3 +1,4 @@
+theme=radical&bg_color=0d1117
 <h2 align="center">Work.</h2>
 
 <p align="center">
