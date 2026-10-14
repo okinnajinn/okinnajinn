@@ -26,9 +26,6 @@
   </a>
 </p>
 
-<p align="center">
-  Junior Developer • Python & JavaScript • Learning every day
-</p>
 
 <h1 align="center">🛠️ Tech Stack</h1>
 
