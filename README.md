@@ -33,12 +33,12 @@
 
 <h3 align="center">What I use now</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,kotlin,bash,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,kotlin,bash,git,github,vscode ,fedora" />
 </p>
 
 <h3 align="center">What I want to learn</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,rust,cpp,docker,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=go,rust,cpp,docker,nodejs" />
 </p>
 
 <br>
