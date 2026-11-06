@@ -11,27 +11,31 @@
   📚 Learning new programming languages
 </p>
 
+
 <h1 align="center">My Projects</h1>
 
 <p align="center">
   <a href="https://github.com/okinnajinn/game-on-python">
-    <img src="https://github.com/okinnajinn/game-on-python" />
+    <img width="400"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=okinnajinn&repo=game-on-python&theme=radical"
+      alt="Alien Invasion Python">
   </a>
-  <a href="https://github.com/okinnajinn/practic-python-classi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=okinnajinn&repo=practic-python-classi&theme=radical" />
+
+  <a href="https://github.com/Tihomir911/mobile-app-11991199">
+    <img width="400"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=Tihomir911&repo=mobile-app-11991199&theme=radical"
+      alt="College Android Project">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/okinnajinn/salon-booking">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=okinnajinn&repo=salon-booking&theme=radical" />
-  </a>
-  <a href="https://github.com/okinnajinn/workload_system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=okinnajinn&repo=workload_system&theme=radical" />
-  </a>
+  <a href="https://github.com/okinnajinn/game-on-python">Python Game</a>
+  •
+  <a href="https://github.com/Tihomir911/mobile-app-11991199">Android Project</a>
 </p>
 
 <br>
+
 
 <h1 align="center">My Stack</h1>
 
