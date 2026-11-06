@@ -59,6 +59,7 @@
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=okinnajinn&theme=radical"
     alt="GitHub Statistics" />
 
+<p align="canter">
   <img height="180"
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=okinnajinn&theme=radical"
     alt="Most Used Languages" />
