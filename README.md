@@ -52,28 +52,21 @@
 <br>
 
 
+
 <h1 align="center">Stats</h1>
 
-<p align="center">
-  <img height="180"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=okinnajinn&theme=radical"
-    alt="GitHub Statistics" />
+<div align="center">
+  <img width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=okinnajinn&theme=radical" alt="GitHub Stats" /><img width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=okinnajinn&theme=radical" alt="Top Languages" />
+</div>
 
-<p align="canter">
-  <img height="180"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=okinnajinn&theme=radical"
-    alt="Most Used Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=okinnajinn&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=okinnajinn&theme=radical&hide_border=true"
-    alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OWptNXZwcmgzNHpta2JiNmpxYngzdGE3MXowbzltOXc1dTV4MGkwbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ztpMY1t5VYWlO/giphy.gif" width="50%" />
+</div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OWptNXZwcmgzNHpta2JiNmpxYngzdGE3MXowbzltOXc1dTV4MGkwbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ztpMY1t5VYWlO/giphy.gif"
-    width="50%" />
-</p>
 
 
 
