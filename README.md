@@ -41,7 +41,7 @@
 
 <h3 align="center">What I use now</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,kotlin,bash,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,kotlin,bash,git,github,vscode,html,css,linux" />
 </p>
 
 <h3 align="center">What I want to learn</h3>
@@ -51,19 +51,28 @@
 
 <br>
 
+
 <h1 align="center">Stats</h1>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=okinnajinn&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okinnajinn&layout=compact&theme=radical&hide_border=true" />
+  <img height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=okinnajinn&theme=radical"
+    alt="GitHub Statistics" />
+
+  <img height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=okinnajinn&theme=radical"
+    alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=okinnajinn&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=okinnajinn&theme=radical&hide_border=true"
+    alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OWptNXZwcmgzNHpta2JiNmpxYngzdGE3MXowbzltOXc1dTV4MGkwbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ztpMY1t5VYWlO/giphy.gif" width="50%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OWptNXZwcmgzNHpta2JiNmpxYngzdGE3MXowbzltOXc1dTV4MGkwbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ztpMY1t5VYWlO/giphy.gif"
+    width="50%" />
 </p>
+
 
 
