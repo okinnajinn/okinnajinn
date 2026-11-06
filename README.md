@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/okinnajinn/game-on-python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=okinnajinn&repo=game-on-python&theme=radical" />
+    <img src="https://github.com/okinnajinn/game-on-python" />
   </a>
   <a href="https://github.com/okinnajinn/practic-python-classi">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=okinnajinn&repo=practic-python-classi&theme=radical" />
